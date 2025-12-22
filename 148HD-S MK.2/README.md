@@ -1,0 +1,3 @@
+# 148HD-S MK.2
+
+The 148HD-S MK.2 is the standard version of the 148HD. The standard version is a 148-watt-hour battery that has a nominal voltage of approximately 14.8 volts. Each cell has a capacity of 10000 mAh, or 10 Ah, with 4 in parallel to make a 4S module. With it being the MK.2 it has a communication interface on top of the XT60 connector. Where through the interface, information about the battery like temperature, battery power level, cycles, health, battery model number, capacity and so on can be pulled so that the end system has an idea of what battery configuration it is dealing with.
